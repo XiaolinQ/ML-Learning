@@ -12,3 +12,5 @@ Stat212b: Topics Course on Deep Learning
 http://joanbruna.github.io/stat212b/
 完备的 AI 学习路线，最详细的资源整理！
 https://mp.weixin.qq.com/s/fUNDdCzJrWBoKYh1tT4gSw
+Hands-on tour to deep learning with PyTorch
+https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html
