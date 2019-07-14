@@ -11,5 +11,8 @@ https://www.quantopian.com/posts/machine-learning-on-quantopian
 Stat212b: Topics Course on Deep Learning
 http://joanbruna.github.io/stat212b/
 完备的 AI 学习路线，最详细的资源整理！
-https://new.qq.com/omn/20190504/20190504A06AYD.html
-https://mp.weixin.qq.com/s/zRjZpwcRuWXxUj9_C2CsAQ
+https://mp.weixin.qq.com/s/fUNDdCzJrWBoKYh1tT4gSw
+深度学习在金融领域的应用
+https://mp.weixin.qq.com/s/yvLrvmhBMUi5imQcHDo9Wg
+一文读懂算法交易—所有模型都是错的，但有些是有用的 | 收藏级
+https://mp.weixin.qq.com/s/EG36XQCTr9treSw4WZm-Fw
