@@ -10,3 +10,6 @@ Machine Learning on Quantopian part 1: Basics
 https://www.quantopian.com/posts/machine-learning-on-quantopian
 Stat212b: Topics Course on Deep Learning
 http://joanbruna.github.io/stat212b/
+完备的 AI 学习路线，最详细的资源整理！
+https://new.qq.com/omn/20190504/20190504A06AYD.html
+https://mp.weixin.qq.com/s/zRjZpwcRuWXxUj9_C2CsAQ
