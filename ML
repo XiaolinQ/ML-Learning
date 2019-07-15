@@ -14,3 +14,5 @@ http://joanbruna.github.io/stat212b/
 https://mp.weixin.qq.com/s/fUNDdCzJrWBoKYh1tT4gSw
 Hands-on tour to deep learning with PyTorch
 https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html
+DeepLearning-500-questions
+https://github.com/scutan90/DeepLearning-500-questions
