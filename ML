@@ -16,3 +16,5 @@ Hands-on tour to deep learning with PyTorch
 https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html
 DeepLearning-500-questions
 https://github.com/scutan90/DeepLearning-500-questions
+Dive into Deep Learning (D2L Book)
+https://github.com/d2l-ai/d2l-en
