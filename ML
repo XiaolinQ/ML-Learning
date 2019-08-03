@@ -18,3 +18,8 @@ DeepLearning-500-questions
 https://github.com/scutan90/DeepLearning-500-questions
 Dive into Deep Learning (D2L Book)
 https://github.com/d2l-ai/d2l-en
+SQLFlow is a bridge that connects a SQL engine, e.g. MySQL, Hive, SparkSQL or SQL Server, with TensorFlow and other machine learning toolkits. SQLFlow extends the SQL language to enable model training, prediction and inference.
+https://github.com/sql-machine-learning/sqlflow
+Awesome TensorFlow
+https://github.com/jtoy/awesome-tensorflow
+
