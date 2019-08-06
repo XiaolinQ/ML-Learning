@@ -20,3 +20,5 @@ PyTorch-Transformers is a library of state-of-the-art pre-trained models for nlp
 https://huggingface.co/pytorch-transformers/index.html
 fastText is a library for efficient learning of word representations and sentence classification.
 https://github.com/facebookresearch/fastText?source=post_page
+NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit
+https://github.com/Tencent/NeuralNLP-NeuralClassifier#notification-settings
