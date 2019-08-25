@@ -24,3 +24,6 @@ Awesome TensorFlow
 https://github.com/jtoy/awesome-tensorflow
 李宏毅机器学习笔记(LeeML-Notes)
 https://github.com/datawhalechina/leeml-notes/blob/master/README.md
+Angel
+https://github.com/Angel-ML
+
