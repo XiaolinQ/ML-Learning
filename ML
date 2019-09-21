@@ -26,4 +26,5 @@ https://github.com/jtoy/awesome-tensorflow
 https://github.com/datawhalechina/leeml-notes/blob/master/README.md
 Angel
 https://github.com/Angel-ML
-
+distribution-is-all-you-need is the basic distribution probability tutorial for most common distribution focused on Deep learning using python library.
+https://github.com/graykode/distribution-is-all-you-need
