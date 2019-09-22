@@ -28,3 +28,5 @@ Angel
 https://github.com/Angel-ML
 distribution-is-all-you-need is the basic distribution probability tutorial for most common distribution focused on Deep learning using python library.
 https://github.com/graykode/distribution-is-all-you-need
+Interpretable Machine Learning
+https://christophm.github.io/interpretable-ml-book/
