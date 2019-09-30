@@ -30,3 +30,6 @@ distribution-is-all-you-need is the basic distribution probability tutorial for 
 https://github.com/graykode/distribution-is-all-you-need
 Interpretable Machine Learning
 https://christophm.github.io/interpretable-ml-book/
+Cheat-Sheets
+https://github.com/Niraj-Lunavat/Artificial-Intelligence
+
