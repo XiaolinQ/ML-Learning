@@ -34,3 +34,5 @@ Cheat-Sheets
 https://github.com/Niraj-Lunavat/Artificial-Intelligence
 sotabencheval
 https://github.com/paperswithcode/sotabench-eval
+Prof. Andrew NG Machine Learning Yearning
+https://github.com/ajaymache/machine-learning-yearning
