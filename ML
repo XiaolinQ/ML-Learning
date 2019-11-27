@@ -40,3 +40,5 @@ A series of Jupyter notebooks that walk you through the fundamentals of Machine 
 https://github.com/ageron/handson-ml2
 Deep Learning with PyTorch (official textbook)
 https://pytorch.org/deep-learning-with-pytorch
+A Recipe for Training Neural Networks
+http://karpathy.github.io/2019/04/25/recipe/
