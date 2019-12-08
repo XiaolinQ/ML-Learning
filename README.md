@@ -1,5 +1,5 @@
 # ML-Learning
-Study notes for Machine Learning
+Ever-growing notes for Machine Learning and coding
 
 NLP
 
