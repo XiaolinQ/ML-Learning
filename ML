@@ -42,3 +42,5 @@ Deep Learning with PyTorch (official textbook)
 https://pytorch.org/deep-learning-with-pytorch
 A Recipe for Training Neural Networks
 http://karpathy.github.io/2019/04/25/recipe/
+Notes On Using Data Science & Artificial Intelligence
+https://chrisalbon.com/
