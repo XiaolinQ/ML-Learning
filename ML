@@ -44,3 +44,5 @@ A Recipe for Training Neural Networks
 http://karpathy.github.io/2019/04/25/recipe/
 Notes On Using Data Science & Artificial Intelligence
 https://chrisalbon.com/
+Neural Network Programming - Deep Learning with PyTorch
+https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
